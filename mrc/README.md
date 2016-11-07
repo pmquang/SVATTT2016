@@ -2,6 +2,7 @@ $ ./mrc flag.txt
 ffc309e61f2ac3df48d3b9b64fd1720bfb95b460a1235f5d91c4f92ce90dfa516e1b8c49225b808560a9d853980662dc26984e 
 
 nhìn vào đoạn code này thì thôi brute force  thôi :)
+
 int __cdecl main(int a1, char **a2)
 {
   int v2; // ST18_4@5
