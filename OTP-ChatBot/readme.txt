@@ -33,4 +33,4 @@ Sau đó mình gửi FLAG? Đến server và nhận về được 1 đoạn enc1
 
 Mình lại gửi tiếp FLAG? Đến server và cũng nhận được 1 đoạn enc2 = flag của đề bài
 
-Bởi vì encrypt_key là random, nên factor có lúc được lúc không, cho nên mình sẽ gửi nhiêu lần, sau vài chục lần thử  factor encrypt_key, mình tìm được một số có thể  factor nhanh, có các prime, mình tính phi và private key, sau đó decrypt `enc` là ra flag.
+Bởi vì encrypt_key là random, nên factor có lúc được lúc không , cho nên mình sẽ gửi nhiêu lần, sau vài chục lần thử  factor encrypt_key ,thật sự lúc này rất nản và cũng gần hết giờ nhưng rất may cuối cùng lại tìm thấy đoạn có thể factor dễ dàng kaka, có các prime, mình tính phi và private key, sau đó decrypt `enc` là ra flag.
