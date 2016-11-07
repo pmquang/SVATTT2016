@@ -29,5 +29,7 @@ int __cdecl main(int a1, char **a2)
   return 0;
 }
 
+flag: SVATTT{Whats_differenc3_between_my_mrc_@nd_crc}
+
 
 
