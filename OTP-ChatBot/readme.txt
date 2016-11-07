@@ -9,8 +9,7 @@ hint 1: https://eprint.iacr.org/2011/388.pdf section 3.1
 hint 2: rsa is actually crt over 2 big primes, but it isn't restricted to only 2. also note that flag^d is independent from modulo, finally, we only need to consider small prime factors. good luck
 
 không biết hôm thi tự dưng mình lại kiên trì đến như vậy ngồi cả ngày chỉ để giải quyết câu này câu mà chưa có đội mô làm ra :)
-PS: không bài chess | 250 trong lúc thi có bị lỗi gì không chỉ cần đi một nước e7e6 là thắng :)
-
+PS:bài chess | 250 trong lúc thi có bị lỗi hay btc cố tình để  như rứa chỉ cần đi một nước e7e6  7 lần là win . 250 dễ như cho :)
 Cứ mỗi lần kết nối thì mình lại nhận được 1 encrypt_key khác nhau
 "elif 'hello' in msg or 'hi' in msg or 'good' in msg or 'chao' in msg:
         res = greet[random.randrange(0,len(greet))]"
